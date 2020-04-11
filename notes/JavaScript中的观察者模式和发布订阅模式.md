@@ -180,7 +180,7 @@ document.querySelector(".subscribe1").addEventListener("click", function() {
 
 发布订阅模式比观察者模式多了一个事件类型的判断
 
-![image](https://github.com/shenshuai89/study-notes/blob/master/image/watchAndPublish.png)
+ ![image](https://github.com/shenshuai89/study-notes/blob/master/image/watchAndPublish.png)
 
 
 
