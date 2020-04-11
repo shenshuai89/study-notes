@@ -11,6 +11,7 @@
 * [JS中的call、apply、bind方法详解]([https://github.com/shenshuai89/study-notes/blob/master/notes/JS%E4%B8%AD%E7%9A%84call%E3%80%81apply%E3%80%81bind%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3.md](https://github.com/shenshuai89/study-notes/blob/master/notes/JS中的call、apply、bind方法详解.md))
 * [JS的原型和原型链](https://github.com/shenshuai89/study-notes/blob/master/notes/JS%E7%9A%84%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
 * [JavaScript中this指向]([https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript%E4%B8%ADthis%E6%8C%87%E5%90%91.md](https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript中this指向.md))
+* JavaScript中的观察者模式和发布订阅模式
 
 ## css
 
@@ -28,6 +29,7 @@
 * [React Hooks 深入系列 —— 设计模式](https://zhuanlan.zhihu.com/p/76097158)
 * [精读reactHooks](https://zhuanlan.zhihu.com/p/49408348)
 * [对reactHooks的一些思考](https://zhuanlan.zhihu.com/p/48264713)
+* [深入理解 React Fiber](https://zhuanlan.zhihu.com/p/98295862)
 
 ## 工程化
 
