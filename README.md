@@ -6,12 +6,12 @@
 
 ## JavaScript
 
-* [AJAX工作原理]([https://github.com/shenshuai89/study-notes/blob/master/notes/AJAX%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md](https://github.com/shenshuai89/study-notes/blob/master/notes/AJAX工作原理.md))
-* [Arguments对象作用深度研究]([https://github.com/shenshuai89/study-notes/blob/master/notes/Arguments%E5%AF%B9%E8%B1%A1%E4%BD%9C%E7%94%A8%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6.md](https://github.com/shenshuai89/study-notes/blob/master/notes/Arguments对象作用深度研究.md))
-* [JS中的call、apply、bind方法详解]([https://github.com/shenshuai89/study-notes/blob/master/notes/JS%E4%B8%AD%E7%9A%84call%E3%80%81apply%E3%80%81bind%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3.md](https://github.com/shenshuai89/study-notes/blob/master/notes/JS中的call、apply、bind方法详解.md))
+* [AJAX工作原理]([https://github.com/shenshuai89/study-notes/blob/master/notes/AJAX%E5%B7%A5%E4%BD%9C%E5%8E%9F%E7%90%86.md])
+* [Arguments对象作用深度研究]([https://github.com/shenshuai89/study-notes/blob/master/notes/Arguments%E5%AF%B9%E8%B1%A1%E4%BD%9C%E7%94%A8%E6%B7%B1%E5%BA%A6%E7%A0%94%E7%A9%B6.md])
+* [JS中的call、apply、bind方法详解]([https://github.com/shenshuai89/study-notes/blob/master/notes/JS%E4%B8%AD%E7%9A%84call%E3%80%81apply%E3%80%81bind%E6%96%B9%E6%B3%95%E8%AF%A6%E8%A7%A3.md])
 * [JS的原型和原型链](https://github.com/shenshuai89/study-notes/blob/master/notes/JS%E7%9A%84%E5%8E%9F%E5%9E%8B%E5%92%8C%E5%8E%9F%E5%9E%8B%E9%93%BE.md)
-* [JavaScript中this指向]([https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript%E4%B8%ADthis%E6%8C%87%E5%90%91.md](https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript中this指向.md))
-* JavaScript中的观察者模式和发布订阅模式
+* [JavaScript中this指向]([https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript%E4%B8%ADthis%E6%8C%87%E5%90%91.md])
+* [JavaScript中的观察者模式和发布订阅模式](https://github.com/shenshuai89/study-notes/blob/master/notes/JavaScript%E4%B8%AD%E7%9A%84%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F%E5%92%8C%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E6%A8%A1%E5%BC%8F.md)
 
 ## css
 
